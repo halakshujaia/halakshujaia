@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Hala Khalil Shujaia 👋
 
-<!--
-**halakshujaia/halakshujaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+Computer Engineering student passionate about Artificial Intelligence and Hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, solving problems, and continuously learning new technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- C
+- Java
+- Python
+
+### Web
+- HTML
+- CSS
+
+### Computer Science
+- Data Structures
+- Computer Networks
+
+### Tools
+- Git
+- GitHub
+- Keil uVision
+
+---
+
+## 🎯 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Natural Language Processing (NLP)
+- 💻 Hardware
+- 🌐 Computer Networks
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Natural Language Processing (NLP)
+- Machine Learning
+
+---
+
+⭐ Always learning, always building.

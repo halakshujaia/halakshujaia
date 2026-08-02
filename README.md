@@ -66,5 +66,7 @@ More university projects will be added soon...
 
 ---
 
-⭐ *Learning something new every day.*
-⭐ Always learning, always building.
+
+## ✨ Quote
+
+> "Always learning. Always building."

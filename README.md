@@ -1,27 +1,28 @@
-# Hi, I'm Hala Khalil Shojaeiah 👋
+# Hi, I'm Hala Khalil Shujaia 👋
 
 ## 👩‍💻 About Me
 
-Computer Engineering student passionate about Artificial Intelligence and Hardware.
+I'm a Computer Engineering student with a strong interest in **Artificial Intelligence**, **Hardware**, and **Software Development**.
 
-I enjoy building projects, solving problems, and continuously learning new technologies.
+I enjoy building university projects, solving programming problems, and continuously improving my technical skills.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
+### Programming Languages
 - C
 - Java
 - Python
 
-### Web
+### Web Technologies
 - HTML
 - CSS
 
 ### Computer Science
 - Data Structures
 - Computer Networks
+- Operating Systems
 
 ### Tools
 - Git
@@ -30,21 +31,40 @@ I enjoy building projects, solving problems, and continuously learning new techn
 
 ---
 
-## 🎯 Interests
+## 🚀 Current Projects
+
+### 🖥️ Operating Systems
+- OS - Multithreaded Matrix Multiplication
+- OS - Banker's Algorithm
+
+More university projects will be added soon...
+
+---
+
+## 🎯 Areas of Interest
 
 - 🤖 Artificial Intelligence
-- 🧠 Natural Language Processing (NLP)
-- 💻 Hardware
-- 🌐 Computer Networks
+- 💻 Computer Hardware
+- ⚙️ Software Development
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Artificial Intelligence
-- Natural Language Processing (NLP)
-- Machine Learning
+- Computer Architecture
+- Advanced Programming Concepts
 
 ---
 
+## 🌟 Goals
+
+- Build practical AI applications
+- Improve my software engineering skills
+- Develop impactful university and personal projects
+- Contribute to open-source projects in the future
+
+---
+
+⭐ *Learning something new every day. *
 ⭐ Always learning, always building.

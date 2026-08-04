@@ -36,6 +36,8 @@ I enjoy building university projects, solving programming problems, and continuo
 ### 🖥️ Operating Systems
 - OS - Multithreaded Matrix Multiplication
 - OS - Banker's Algorithm
+- Smart-Traffic-Light-Controller
+
 
 More university projects will be added soon...
 
